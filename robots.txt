@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zahzeepho.xtf615.com/sitemap.xml
